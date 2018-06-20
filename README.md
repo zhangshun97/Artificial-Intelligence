@@ -1,10 +1,10 @@
 # Artificial Intelligence
 
-This a [course](http://www.sdspeople.fudan.edu.cn/zywei/DATA130008/index.html) for junior students in the School of Data Science, Fudan University. It is mainly adapted from course [CS188](http://ai.berkeley.edu/home.html) at Berkeley. Check out the CS188 website for more materials.
+This is a [course](http://www.sdspeople.fudan.edu.cn/zywei/DATA130008/index.html) for junior students in the School of Data Science, Fudan University. It's mainly adapted from course [CS188](http://ai.berkeley.edu/home.html) at Berkeley. Check out the CS188 website for more materials.
 
 ## 1. Overview
 
-The course mainly covers the following SIX parts:
+The course mainly covers the following SIX parts.
 
 - Classical Search Algorithms (BFS, DFS, UCS, A*, Adversarial Search)
 - Constraint Satisfaction Problem (CSP)
@@ -15,3 +15,6 @@ The course mainly covers the following SIX parts:
 
 ## 2. Course Labs
 
+There are four Labs during the semester on the following four topics respectively.
+
+- 
