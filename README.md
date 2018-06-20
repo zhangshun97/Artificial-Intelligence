@@ -18,7 +18,7 @@ The course mainly covers the following SIX topics.
 There are four Labs during the semester on the following four topics respectively.
 
 - [Uniform Cost Search](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Labs/Lab_1_search)
-- [$\alpha$-$\beta$ pruning in Minimax Search](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Labs/Lab_2_pruning)
+- $\alpha$-$\beta$ [pruning in Minimax Search](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Labs/Lab_2_pruning)
 - [MDPs (value/policy iteration)](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Labs/Lab_3_MDP)
 - [Exact inference in Bayes' Net](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Labs/Lab_4_BayesNet)
 
