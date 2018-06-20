@@ -28,7 +28,6 @@ There are also four mini-projects during the semester on the following four topi
 
 - [Search in Pacman](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Projects/Project_1_search)
 - [CSP in n-queens](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Projects/Project_2_nqueens)
-
 - [MDPs and Q-learning in blackjack](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Projects/Project_3_blackjack)
 - [HMM and inference](https://github.com/zhangshun97/Artificial-Intelligence/tree/master/Projects/Project_4_car)
 
