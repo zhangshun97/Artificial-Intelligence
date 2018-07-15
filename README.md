@@ -33,4 +33,4 @@ There are also four mini-projects during the semester on the following four topi
 
 ## 4. Competitive Project
 
-- Gomoku
+- [Gomoku](https://github.com/zhangshun97/AI_Gomocup)
